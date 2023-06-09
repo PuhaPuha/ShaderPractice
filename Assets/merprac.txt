@@ -1,7 +1,1 @@
-new
-add some
-asdf
-on
-amend?
-to rebase
-add new!
+brand new commit
