@@ -16,4 +16,5 @@ vow
 check
 17
 1819
-ex
+ex\
+sq
